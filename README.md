@@ -55,7 +55,7 @@ When any gas value exceeds predefined safety thresholds, the system:
 The main project folder in this repository is named `arduino_project`, organized as follows:
 
 ```
-arduino_project/
+arduino/
 │
 ├── mix_iot_esp8266/
 │   └── (ESP8266 source code for LINE notification and Wi-Fi communication)
